@@ -1,0 +1,21 @@
+After you download the code make sure to run the following commands:
+-npx create-react-app instagram-clone
+-npm start
+-npm i firebase
+-npm i axios
+
+
+An Instagram clone with React
+
+Benefits for React:
+-making your app in a component based way, where everything is a component and everything is really fast.
+-if i change one part of the website, it's gonna change only this part of the site and it's not gonna refresh the whole site.
+-speed and how eassilly and quickly you can put things together
+
+With State it's how you use variables in React
+
+Firebase gives you a real-time database.
+
+
+I am creating a instagram clone and I have made it with react js and database
+is cloud firestore, and using Cloud Storage for storing images.
